@@ -4,3 +4,4 @@ class Product(Base):
     description:str
     price:float
     quantity:int
+    fixed=True
